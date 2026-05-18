@@ -1,0 +1,15 @@
+name: holography-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - ipympl
+  - pillow
+  - scikit-image
+  - opencv
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - tk
